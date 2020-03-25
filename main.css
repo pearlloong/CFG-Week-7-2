@@ -1,0 +1,34 @@
+h1,h2,h3,h4,h5,h6 {
+    color: goldenrod;
+    text-align: center;
+}
+
+nav {
+    background: #e9d19f;
+}
+
+ul {
+    color: red;
+    list-style: none;
+    display: space-around;
+    /*properties then ; then soemthing else then ; then bla bla end with ;**/
+}
+
+header {
+    padding-top: 400px;
+    background: #50694e;
+}
+
+p {
+    width: 300px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.specialText  {
+    color: #50854c;
+}
+
+#Wendy {
+    font-size: 30px;
+}
